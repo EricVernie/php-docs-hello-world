@@ -1,3 +1,4 @@
 <?php
 
-echo "Hello Azure!";
+echo "Bienvenue v.0.0.1";
+
